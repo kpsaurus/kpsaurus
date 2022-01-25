@@ -1,10 +1,10 @@
 ## Hello, I'm Krishna Prasad! 👋
 
-<br>
+<br />
 
 I'm a web developer focusing on building stuffs mostly with Django,Flask and React.
 
-<br>
+<br />
 
 🔭 I’m currently working on a dream project
 
@@ -15,10 +15,10 @@ I'm a web developer focusing on building stuffs mostly with Django,Flask and Rea
 
 ⚡ Fun fact: History nerd and football fanatic
 
-<br>
+<br />
 
 ### Get in touch
-------------
+
 Twitter: <a href="https://twitter.com/reachkp">@reachkp</a>
 
 Website: <a href="https://kprasad.dev">kprasad.dev</a>
