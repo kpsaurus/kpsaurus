@@ -18,7 +18,7 @@ I'm a web developer focusing on building stuffs mostly with Django,Flask and Rea
 <br>
 
 ### Get in touch
-<hr>
+------------
 Twitter: <a href="https://twitter.com/reachkp">@reachkp</a>
 
 Website: <a href="https://kprasad.dev">kprasad.dev</a>
