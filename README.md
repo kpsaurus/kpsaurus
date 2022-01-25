@@ -1,5 +1,4 @@
 ## Hello, I'm Krishna Prasad! 👋
-<hr>
 
 <br>
 
