@@ -2,14 +2,14 @@
 
 <br />
 
-I'm a web developer focusing on building stuffs mostly with Django,Flask and React.
+I'm a fullstack web developer focused on building webapps with Django and React.
 
 <br />
 
-🔭 I’m currently working on a dream project
+📚 Currently playing around with NextJS and Typescript
+ 
 
-
-💬 Ask me about Django/Flask development
+💬 Ask me about Django/Flask/React development
 
 😄 Pronouns: he/him
 
