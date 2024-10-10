@@ -1,24 +1,21 @@
-## Hello, I'm Krishna Prasad! 👋
+# Hi there, I'm Krishna Prasad! 👋
 
-<br />
+I'm a passionate web developer specializing in **Django**, **React**, **Next.js**, and **Wagtail**. My projects range from building dynamic websites and RESTful APIs to crafting modern front-end interfaces. Currently, I’m diving into the world of **Golang**, expanding my skill set for backend and API development.
 
-I'm a fullstack web developer focused on building webapps with Django and React.
+### 🚀 Technologies & Tools
 
-<br />
+- **Backend**: Django, Django REST Framework, Wagtail
+- **Frontend**: React, Next.js, Tailwind CSS, Ant Design
+- **Languages**: Python, TypeScript, currently learning Golang
+- **Databases**: PostgreSQL, SQLite
+- **Other Tools**: Git, Docker, Postman, Nginx, Celery, Redis, RabbitMQ
 
-📚 Currently playing around with NextJS and Typescript
- 
+### 🌱 What I'm Learning
 
-💬 Ask me about Django/Flask/React development
+Right now, I’m learning **Golang** to deepen my backend development skills and explore new opportunities in high-performance web services.
 
-😄 Pronouns: he/him
+### 📫 Get in Touch
 
-⚡ Fun fact: History nerd and football fanatic
+- **Twitter/X**: <a href="https://twitter.com/reachkp">@reachkp</a>
 
-<br />
-
-### Get in touch
-
-Twitter: <a href="https://twitter.com/reachkp">@reachkp</a>
-
-Website: <a href="https://kprasad.dev">kprasad.dev</a>
+Feel free to check out my repositories to see what I’ve been working on! 😊
